@@ -1,11 +1,27 @@
 <h1 align="center">Hey there! 👋 I'm Abhay Goudannavar</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr>
+    <!-- <td align="center" width="50%" style="border: none;">
+      <kbd>
+        <img src="haikyuu.gif" width="100%" alt="Haikyuu Banner" />
+      </kbd>
+    </td> -->
+    <td align="center" width="50%" style="border: none;">
+      <kbd>
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding Vibes" />
+      </kbd>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">🚀 Building clean interfaces and contributing to real-world open-source projects</h3>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaygoudannavar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhaygoudannavar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaygoudannavar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
 </div>
 

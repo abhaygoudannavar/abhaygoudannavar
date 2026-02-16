@@ -1,13 +1,11 @@
 <h1 align="center">Hey there! 👋 I'm Abhay Goudannavar</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Abhay" alt="Abhay Signature" />
+</div>
 
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
-    <!-- <td align="center" width="50%" style="border: none;">
-      <kbd>
-        <img src="haikyuu.gif" width="100%" alt="Haikyuu Banner" />
-      </kbd>
-    </td> -->
-    <td align="center" width="50%" style="border: none;">
+    <td align="center" style="border: none;">
       <kbd>
         <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding Vibes" />
       </kbd>
@@ -20,8 +18,8 @@
 ---
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhaygoudannavar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaygoudannavar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaygoudannavar&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaygoudannavar&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -37,7 +35,7 @@
 
 ### 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -57,7 +55,7 @@
 
 ### 📫 Connect with Me
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/abhaysgoudannavar/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>

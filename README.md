@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! 👋 I'm Abhay Goudannavar</h1>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
@@ -29,10 +28,10 @@
 
 ### 🚀 Projects
 
-| Project | Description |
-|---------|-------------|
+| Project                                                                             | Description                                                    |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [🗳️ Rocket.Chat Poll App](https://github.com/abhaygoudannavar/rocket.chat.app-poll) | Poll feature implementation for Rocket.Chat messaging platform |
-| [📷 RUXAILAB Camera Capture](https://github.com/abhaygoudannavar/RUXAILAB) | Camera capture feature for the RUXAILAB project |
+| [📷 RUXAILAB Camera Capture](https://github.com/abhaygoudannavar/RUXAILAB)          | Camera capture feature for the RUXAILAB project                |
 
 ---
 
